@@ -1,7 +1,7 @@
 # how-to-run-AI-Agent
 
 1.clone the repository       
--git clone <repository_code>      
+    -git clone <repository_code>      
        
 2.open it in code editor and hit run        
 or      
